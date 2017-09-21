@@ -96,7 +96,7 @@ export default {
     display: flex;
     background: white;
     >nav {
-        background: #192229;
+        background: #484D45;
         width: 80px;
         text-align: center;
         >ol li {

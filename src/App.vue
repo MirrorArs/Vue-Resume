@@ -60,8 +60,8 @@ html,body,#app{
 }
 .topbar{
   position: relative;
-  background-color: #407FE3;
-  box-shadow: 0 0 3px hsla(0,0,0,0.5);
+  background: repeating-linear-gradient(125deg, rgba(76,93,106,0.4)2.5%, rgba(34,56,71,0.7) 5%);
+  box-shadow: 0 0 15px hsla(10,10,10,0.8);
 }
 .icon {
        width: 1em; height: 1em;
