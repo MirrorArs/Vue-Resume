@@ -91,12 +91,12 @@ export default {
 
 <style lang="scss">
 #editor {
-    color: #333;
+    color: #333333;
     min-height: 100px;
     display: flex;
-    background: white;
+    background: #238,238,238;
     >nav {
-        background: #484D45;
+        background: #333333;
         width: 80px;
         text-align: center;
         >ol li {

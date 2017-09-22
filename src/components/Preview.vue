@@ -95,7 +95,7 @@ export default {
         font-size: 18px;
     }
     >section h2 {
-        background: #434D55;
+        background: #888888;
         color: #fff;
         padding: 15px;
         width: 115px;

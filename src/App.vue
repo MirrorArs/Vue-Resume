@@ -8,7 +8,7 @@
     </main>
       </div>
     
-    <el-button id="exitPreview"type="primary" v-on:click="exitPreview">退出预览</el-button>
+    <el-button id="exitPreview" v-on:click="exitPreview">退出预览</el-button>
   </div>
 </template>
 
@@ -60,8 +60,8 @@ html,body,#app{
 }
 .topbar{
   position: relative;
-  background: repeating-linear-gradient(125deg, rgba(76,93,106,0.4)2.5%, rgba(34,56,71,0.7) 5%);
-  box-shadow: 0 0 15px hsla(10,10,10,0.8);
+  background: #777777;
+  box-shadow: 0 0 15px hsla(60,60,60,0.8);
 }
 .icon {
        width: 1em; height: 1em;
