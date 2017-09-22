@@ -1,7 +1,9 @@
-# resume
-
-> A Vue.js project
-
+# Vue在线简历编辑器
+预览链接:https://mirrorars.github.io/Vue-Resume/dist/
+  
+   ![image](https://github.com/MirrorArs/Vue-Resume/raw/master/Vue.png)  
+     
+     可在手机扫码查看
 ## Build Setup
 
 ``` bash
